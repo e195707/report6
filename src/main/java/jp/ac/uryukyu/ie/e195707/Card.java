@@ -15,6 +15,7 @@ public class Card{
     }
     public void setCardType(CardType cardType){
         this.cardType = cardType;
+
     }
 
 }
