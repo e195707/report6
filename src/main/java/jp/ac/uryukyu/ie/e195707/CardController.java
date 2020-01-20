@@ -40,7 +40,7 @@ public class CardController {
      *
      * @param cards
      *  対象のカード
-     * @retrun シャッフルされた結果のカード
+     * @return シャッフルされた結果のカード
      */
     public Card[] shuffle(Card[] cards){
         Card[] results = new Card[52];

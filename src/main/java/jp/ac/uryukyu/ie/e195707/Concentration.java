@@ -1,5 +1,4 @@
 package jp.ac.uryukyu.ie.e195707;
-import com.sun.net.httpserver.Authenticator;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -104,6 +103,7 @@ public class Concentration{
         }
         for(int i=0; i< playerSuccess.length; i++){
             System.out.println("プレイヤー"+i+"="+playerSuccess[i]);
+
         }
     }
 }
