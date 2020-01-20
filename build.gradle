@@ -2,7 +2,7 @@ plugins {
     id 'java'
 }
 
-group 'report6'
+group  'report6'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 10
